@@ -1,2 +1,2 @@
 # Basic1
-Learning Basics
+Learning Basic commands for GitHub Repositiries
